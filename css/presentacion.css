@@ -1,0 +1,14 @@
+.present {
+  margin-top: 100px; }
+  .present .pages {
+    margin: 40px 0; }
+    .present .pages .page {
+      text-decoration: none;
+      transition: all 0.5s ease-in-out; }
+      .present .pages .page .title small {
+        color: rgba(0, 0, 0, 0.9); }
+      .present .pages .page:hover {
+        transform: scale(1.2);
+        transition: all 0.3s ease-in-out; }
+
+/*# sourceMappingURL=presentacion.css.map */
